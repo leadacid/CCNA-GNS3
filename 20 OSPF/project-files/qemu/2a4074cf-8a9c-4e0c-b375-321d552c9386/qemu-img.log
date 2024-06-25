@@ -1,0 +1,1 @@
+Formatting '/home/guido/GNS3/projects/20 OSPF/project-files/qemu/2a4074cf-8a9c-4e0c-b375-321d552c9386/hdb_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=1048576 backing_file=/home/guido/GNS3/images/QEMU/IOSv_startup_config.img backing_fmt=raw lazy_refcounts=off refcount_bits=16
